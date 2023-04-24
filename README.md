@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Learning and Exploring Things<br>👯 Development of My Ideas <br>🤝 Front End Programming<br>🌱 I’m currently learning C#<br>💬 Ask me about my plans <br>⚡ Fun fact: I am better😎
+🔭 Learning and Exploring Things<br>
+<img align=right alt="coding" width=400 src="">👯 Development of My Ideas <br>🤝 Front End Programming<br>🌱 I’m currently learning C#<br>💬 Ask me about my plans <br>⚡ Fun fact: I am better😎
 
 
 ## 🌐 Socials:
