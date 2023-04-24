@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Learning and Exploring Things<br>
-<img align=right alt="coding" width=400 src="68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6.gif">👯 Development of My Ideas <br>🤝 Front End Programming<br>🌱 I’m currently learning C#<br>💬 Ask me about my plans <br>⚡ Fun fact: I am better😎
+<img align=right alt="coding" width=400 src="68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6.gif" auto=play>👯 Development of My Ideas <br>🤝 Front End Programming<br>🌱 I’m currently learning C#<br>💬 Ask me about my plans <br>⚡ Fun fact: I am better😎
 
 
 ## 🌐 Socials:
