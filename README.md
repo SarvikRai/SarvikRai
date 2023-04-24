@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarvik1890) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/KyaMatlabMeChutiyaHu) 
-![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=Telegram)](https://t.me/sarvik1890) 
+[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=Telegram)](https://t.me/sarvik1890)
 
 
 # 💻 Tech Stack:
